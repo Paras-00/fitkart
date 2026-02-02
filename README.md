@@ -15,6 +15,9 @@ FitKart is a modern e-commerce web application built using React + Vite.
 - Wishlist
 - Cart functionality
 
+# ScreenShot
+
+
 ## 🛠️ Setup
 ```bash
 npm install
